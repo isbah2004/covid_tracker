@@ -1,4 +1,0 @@
-#Wed May 08 21:16:39 PKT 2024
-base.0=C\:\\Users\\Syed Isbah\\OneDrive\\Desktop\\covid_tracker\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
